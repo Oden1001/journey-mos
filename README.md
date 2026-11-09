@@ -22,9 +22,6 @@ PC mod for [*Journey*](https://thatgamecompany.com/journey/) — in-game **F8** 
 
 **Source / 源码:** https://github.com/Oden1001/journey-mos  
 
-Upload the real `.exe` / `.dll` files (do not rename extensions to bypass quarantine).  
-请上传真实的 `.exe` / `.dll`（不要改后缀绕过隔离审核）。
-
 **Steps / 步骤**
 
 1. Close Journey.  
