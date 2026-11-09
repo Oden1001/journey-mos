@@ -20,11 +20,10 @@ PC mod for [*Journey*](https://thatgamecompany.com/journey/) — in-game **F8** 
 | `JourneyMos.dll` | F8 overlay menu |
 | `dinput8.dll` | Auto-loads the menu when you start Journey (e.g. from Steam) |
 
-If the host renames binaries to `.txt`, rename back:
+**Source / 源码:** https://github.com/Oden1001/journey-mos  
 
-- `JourneyMosLauncher.txt` → `JourneyMosLauncher.exe`  
-- `JourneyMos.txt` → `JourneyMos.dll`  
-- `dinput8.txt` → `dinput8.dll`  
+Upload the real `.exe` / `.dll` files (do not rename extensions to bypass quarantine).  
+请上传真实的 `.exe` / `.dll`（不要改后缀绕过隔离审核）。
 
 **Steps / 步骤**
 
