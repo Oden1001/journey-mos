@@ -1,0 +1,22 @@
+# Build / IDE
+dist/native/
+**/embedded_payloads.cpp
+**/embedded_payloads.h
+.vs/
+*.user
+*.sdf
+*.opensdf
+*.suo
+
+# Local game / logs
+*.log
+mod_status.json
+mos_*.bin
+mos_*.txt
+.journey_mos
+launch_error.txt
+
+# Huge third-party trees (optional local copies)
+tools/llvm-mingw/
+_ref_*/
+_tmp*/
